@@ -39,4 +39,4 @@ struct fmt
  */
 typedef struct fmt ftm_t;
 
-int _printf(cont char *format, ...);
+int _printf(const char *format, ...);
